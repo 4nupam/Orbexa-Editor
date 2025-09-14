@@ -117,12 +117,12 @@ export default function CodeEditor() {
           >
             Run JS
           </button>
-          <button
+{/*           <button
             className="p-2 bg-gray-800 text-white rounded hover:bg-gray-900 transition"
             onClick={handleGitHubLogin}
           >
             Save to GitHub
-          </button>
+          </button> */}
         </div>
       </div>
 
